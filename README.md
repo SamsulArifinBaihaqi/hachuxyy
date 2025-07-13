@@ -1,4 +1,4 @@
-## Hi there 👋
+#- Hello Everyone! I'm M. Samsul Arifin Baihaqi
 
 <!--
 **hachuxyy/hachuxyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning in the Malang State Polytechnic
