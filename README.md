@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="center">Server</h3>
+<h3 align="center">Web, Mail, FTP Server</h3>
 
 ###
 
